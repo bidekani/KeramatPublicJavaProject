@@ -7,7 +7,7 @@ import org.apache.log4j.Logger;
 
 /**
  * Hello world!
- *
+ * nothing important
  */
 public class App {
 	final static Logger logger = Logger.getLogger(App.class);
