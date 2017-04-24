@@ -14,7 +14,7 @@ import org.apache.log4j.Logger;
 
 public class Convertor implements DeltekHomework {
 
-	final static Logger logger = Logger.getLogger(Convertor.class);
+	public final static Logger logger = Logger.getLogger(Convertor.class);
     
 	
 	private final String[] lOW_NAMES = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight",
